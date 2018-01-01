@@ -1,0 +1,7 @@
+C:\Users\Lucho\source\repos\CreadorIPTV\CreadorIPTV\bin\Debug\CreadorIPTV.exe.config
+C:\Users\Lucho\source\repos\CreadorIPTV\CreadorIPTV\bin\Debug\CreadorIPTV.exe
+C:\Users\Lucho\source\repos\CreadorIPTV\CreadorIPTV\bin\Debug\CreadorIPTV.pdb
+C:\Users\Lucho\source\repos\CreadorIPTV\CreadorIPTV\obj\Debug\CreadorIPTV.csprojResolveAssemblyReference.cache
+C:\Users\Lucho\source\repos\CreadorIPTV\CreadorIPTV\obj\Debug\CreadorIPTV.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\source\repos\CreadorIPTV\CreadorIPTV\obj\Debug\CreadorIPTV.exe
+C:\Users\Lucho\source\repos\CreadorIPTV\CreadorIPTV\obj\Debug\CreadorIPTV.pdb
