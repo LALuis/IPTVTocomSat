@@ -54,9 +54,7 @@ NAME= Canal 1; URL=http://unaruta.com/Canales/canal2.m3u8;
 
 NAME= Canal 2; URL=http://unaruta.com/Canales/canal2.m3u8;
 
-# Ejemplo 2
-
-Receptores que aceptan este formato:
+# Receptores que aceptan este formato:
 
 TocomSat Combate HD
 
